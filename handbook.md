@@ -25,7 +25,7 @@ Some (but not comprehensive) guidelines for running a conference--supplied by so
 
 Building the team is the single most important thing that you will do. We strongly advise for your conference that you have a minimum support of three organizers(we require this of our own conferences). We have found it useful to break the roles down. A diverse team of individuals(demographic, background, industry, age, etc.) who are excited to tackle these roles is beneficial to the conference outcome and experience.
 
-#### Producers
+### Producers
 - Accounting/Sponsor experience(reimbursements, payments)
 - Logistics/Venue coordinator(vendors, hotel, taxi credits, etc.)
 
@@ -33,7 +33,7 @@ Building the team is the single most important thing that you will do. We strong
 
 **Time commitment:** Roughly 5 hours/week when the conference is 4+ months away and ramps up to 10 hours/week leading up to the conference. The week before the conference is essentially full-time (40+ hours).
 
-#### Organizers
+### Organizers
 - Marketing/copy/social media(influences ticket sales through managing these)
 - Speaker experience(cfp, acceptance/decline)
 - Website
