@@ -23,7 +23,7 @@ Guidelines running a conference supplied by those with years of experience in th
 
 ## Organizing Team
 
-Building the team is the single most important thing that you will do. We have found it useful to break the roles down. A diverse team of individuals(demographic, background, industry, age, etc.) who are excited to tackle these roles is beneficial to the conference outcome and experience.
+Building the team is the single most important thing that you will do. We strongly advise for your conference that you have a minimum support of three organizers(we require this of our own conferences). We have found it useful to break the roles down. A diverse team of individuals(demographic, background, industry, age, etc.) who are excited to tackle these roles is beneficial to the conference outcome and experience.
 
 #### Producers
 - Accounting/Sponsor experience(reimbursements, payments)
