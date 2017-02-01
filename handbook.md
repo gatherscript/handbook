@@ -1,6 +1,6 @@
 # Conference running handbook
 
-Guidelines running a conference supplied by those with years of experience in the tech event scene. This information is not canonical. These practices have worked for us. Run at your own risk!(you'll see <3)
+Some (but not comprehensive) guidelines for running a conference--supplied by some folks with years of experience in the tech event scene. This information is not canonical. These practices have worked for us. Run at your own risk!(you'll see <3)
 
 ## Contents
 * [Organizing Team](#organizing-team)
@@ -64,7 +64,7 @@ Think about the overall feel you want your audience(speakers, attendees, sponsor
 - Check in on sponsors during the event to make sure they have everything they need. They help keep the wheels turning! Have sponsors gotten breaks?
 - Promote self-care to attendees, speakers, sponsors, and organizers. Happy people make a happy conf.
 - Parties !== booze. Providing events where folks can meet each other, wind down, and nerd out is awesome. Alcohol should not be the primary form of entertainment at any scheduled event. Always make sure non-alcoholic beverages are provided.
-- If you're providing food, being sensitive to the needs of those with dietary restrictions is very appreciated. Make it known you are doing this! Easy to grab and go food makes for quickly satisfied attendees.
+- If you're providing food, being sensitive to the needs of those with dietary restrictions is very appreciated. Make it known you are doing this! Another in is easy-to-grab-and-go food makes for quickly satisfied attendees.
 - Introduce your team to the entire conference. Make sure everyone knows who they are and how to identify them if they need anything. Try to repeat this often.
 
 
@@ -101,39 +101,39 @@ You will very likely need a deposit to secure a venue. If you're a first year co
 
 *TEMPLATE TO TOUR:*
 Some things to look for:
-1. Broadband: what does their pipe look like?
-2. Wi-Fi: how many connected devices can it support?
-3. Plugs: what's the plug / power strip situation?
-4. Power: do we have to pay any surcharge for above average power usage?
-5. Is there any vendor lock-in regarding internet or WiFi?
-6. Seating: Can they comfortably accommodate 300 seated individuals with laptops?
-7. What's the line of sight like for the stage area? Any obstructions?
-8. Is the seating elevated/stadium?
-9. Are the chairs comfortable?
-10. A/V: What kind of projector(if provided)
-11. A/V: What kind of screen?
-12. Are there additional monitors/feeds in the event space or in breakout areas?
-13. What about sound / mics? Is there a system already provided on-site?
-14. Who will be running the A/V for us? Is there a vendor lock-in for A/V?
-15. Is there space to chill out?
-16. Is there space for workshops? For casual breakouts?
-17. Where will the sponsors set-up their booths?(if applicable)
-18. Can we choose our own food vendors?
-19. Is there a fee for going outside of preferred vendors?
-20. Can we provide alcohol to our attendees?
-21. Are we required to carry insurance for our event?
-22. Is parking provided? Where?
-23. Are we required to provide a security team?
-24. Cost: What is included in the cost?
-25. What's not included? (set-up, tear-down, A/V, etc)
-26. How much is the deposit? When is it due?
+1. Broadband: what does their pipe look like?  
+2. Wi-Fi: how many connected devices can it support?  
+3. Plugs: what's the plug / power strip situation?  
+4. Power: do we have to pay any surcharge for above average power usage?  
+5. Is there any vendor lock-in regarding internet or WiFi?  
+6. Seating: Can they comfortably accommodate 300 seated individuals with laptops?  
+7. What's the line of sight like for the stage area? Any obstructions?  
+8. Is the seating elevated/stadium?  
+9. Are the chairs comfortable?  
+10. A/V: What kind of projector(if provided)  
+11. A/V: What kind of screen?  
+12. Are there additional monitors/feeds in the event space or in breakout areas?  
+13. What about sound / mics? Is there a system already provided on-site?  
+14. Who will be running the A/V for us? Is there a vendor lock-in for A/V?  
+15. Is there space to chill out?  
+16. Is there space for workshops? For casual breakouts?  
+17. Where will the sponsors set-up their booths?(if applicable)  
+18. Can we choose our own food vendors?  
+19. Is there a fee for going outside of preferred vendors?  
+20. Can we provide alcohol to our attendees?  
+21. Are we required to carry insurance for our event?  
+22. Is parking provided? Where?  
+23. Are we required to provide a security team?  
+24. Cost: What is included in the cost?  
+25. What's not included? (set-up, tear-down, A/V, etc)  
+26. How much is the deposit? When is it due?  
 
-For managing lodging(destination conference):
-1. Is there any on-site event management offered? What does this include? What's the cost?
-2. What is the process for selling rooms? Is this managed by the lodging company or us?
-3. What are the hours for check-in and check-out? Can this budge at all for our event?
-4. How would we manage conference events mixing with others staying at the resort? Will there be friction with non-confers?
-5. Is WiFi provided in every room at no additional cost?
+For managing lodging(destination conference):  
+1. Is there any on-site event management offered? What does this include? What's the cost?  
+2. What is the process for selling rooms? Is this managed by the lodging company or us?  
+3. What are the hours for check-in and check-out? Can this budge at all for our event?  
+4. How would we manage conference events mixing with others staying at the resort? Will there be friction with non-confers?  
+5. Is WiFi provided in every room at no additional cost?  
 
 *These questions may seem tedious*, but each one of these can make for a very poor attendee experience and increase expenses for the conference dramatically.
 
@@ -142,7 +142,7 @@ It turns out, people will sue you. Acquire event insurance for the days of your 
 
 ## Picking a Date
 
-Build a list of every conference that is similar to the one you're trying to organize. Make note of the "heavy hitters" like JSConf, JSConf EU, NodeConf, etc. Make sure you pick a date that conflicts as little as possible. Date conflicts will not only affect your ability to attract attendees but it will also may block potential speakers.
+Build a list of every conference that is similar to the one you're trying to organize and cross-sections of audience that could miss out by too many good conferences occurring. Make sure you pick a date that conflicts as little as possible. Date conflicts will not only affect your ability to attract attendees but it will also block potential speakers. 
 
 Here's a [crowdsourced list of conferences](https://docs.google.com/spreadsheet/ccc?key=0AjzoXvTKg56mdDdBLXhfbHFwNE1hSlNKZzBCR2hBNUE&usp=drive_web#gid=0) that might be helpful.
 
@@ -152,7 +152,7 @@ First, how many attendees do you expect?
 * 0-100 people: 1 track, 1 day conference.
 * 101-300 people: 1 track, 2 day conference.
 * 300-600 people: 2 track, 2 day conference.
-* 600+ people: too many people.
+* 600+ people: [too many people](https://en.wikipedia.org/wiki/Dunbar's_number).
 
 ## Dealing with Money
 
