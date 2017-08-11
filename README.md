@@ -303,4 +303,4 @@ The final game plan of the events you will be running should be laid out in a de
 * [Nodeschool](http://nodeschool.io/)
 * [PPK - Conference Organizer's Handbook](http://www.quirksmode.org/coh/)
 
-*Attribution: This format is based on the how-to-conf repo written by Carter Rabasa and Tracy Hinds for CascadiaJS.*
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License</a>.
