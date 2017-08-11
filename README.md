@@ -8,6 +8,7 @@ Some (but not comprehensive) guidelines for running a conference--supplied by so
 * [Picking a Venue](#picking-a-venue)
 * [Picking a Date](#picking-a-date)
 * [Format](#format)
+* [Code of Conduct](#code-of-conduct)
 * [Dealing with Money](#dealing-with-money)
 * [Expenses](#expenses)
 * [Ticket Sales](#ticket-sales)
@@ -154,6 +155,10 @@ First, how many attendees do you expect?
 * 300-600 people: 2 track, 2 day conference.
 * 600+ people: [too many people](https://en.wikipedia.org/wiki/Dunbar's_number).
 
+## Code of Conduct
+This is not optional. It provides a safe space by demonstrating to all those experiencing your event that you are aware and able to act on any challenge that comes up during your time as a responsible party. This is a common guideline for behavior and should have both The [Code of Conduct](https://github.com/EmpireJS/Code-of-Conduct#the-empirejs-code-of-conduct) itself as well as [Reporting Guidelines](https://github.com/EmpireJS/Code-of-Conduct/blob/master/COC_REPORTING.md#how-to-deal-with-code-of-conduct-reports-for-conference-organizers) that allow your team to know how to execute on reported behavior. 
+
+
 ## Dealing with Money
 
 Please see the [Conference Budgeting Template](https://docs.google.com/spreadsheets/d/1EqJU6k2OSecHopIyJCvelgTKSBbEJR98t6beV1xME9w/edit?usp=sharing).
@@ -193,7 +198,7 @@ You might also consider a $0 "community" tier for companies that cannot afford a
 ## CFP
 The call for presentations helps communicate how you build your content and community for the conference. There are many options for submissions to your call that include Github Issues or pull requests, a Google form, or email. These different formats can be chosen for ease-of-execution or minimizing barriers to entry. Past calls have been a hybrid approach--GitHub submission with a template provided to include necessary information. This was for those comfortable with an open source workflow and having their abstract published publicly. To respect privacy and allow encouragement for submitters intimidated by that process, we also created a private email submission.
 
-Check out the [EmpireJS 2016 CFP process](https://speak.empirejs.org/).
+Check out the [EmpireJS 2016 CFP process](https://speak.empirejs.org/) and also read up on our past [Reviewing Guidelines](https://docs.google.com/document/d/18X1gqNXvM8vhSmNKFgGkGsXSVFW7lOMxiYw7Xx5K6P4/edit?usp=sharing) to see how you can help minimize bias and solidify a rad lineup!
 
 ## Speakers
 Building your most diverse, knowledgable community takes work. You want awesome speakers and attendees? Reach out to your local meetups, codeschools, universities, and conferences and share your Call for Speakers. The more inclusive you are in your process to share, the better result you'll see in the community you've built. Reach out to people you see doing awesome work. If you don't know them? It's a compliment you even asked! Better to ask and see a 'no thanks' to the submission process than to not ask and lose the chance at lifting up someone that didn't know you were interested in what they had to say.
