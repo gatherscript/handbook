@@ -83,7 +83,7 @@ You want to begin planning for your conference at least 6 months out. Here is a 
 * T + 1 day: Thank you email to attendees and survey.
 * T + 1 week: Personal thank you emails to speakers and sponsors.
 * T + 2 weeks: Post-mortem with organizing team, photos, videos, etc.
-* T - 1 month All vendor payments, speaker reimbursements, and sponsor money recoupment should be wrapped up.
+* T - 1 month All vendor payments, speaker reimbursements, and sponsor money reimbursement should be wrapped up.
 
 ## Picking a Venue
 
@@ -95,7 +95,7 @@ Your budget will dictate what you can do here. Don't think that you need a fancy
 You will very likely need a deposit to secure a venue. If you're a first year conf or operating on a very small budget, it is recommended to check out your local university for donated space or in exchange for sponsorship.
 
 *Researching Venues*
-1. Pour through all types of sights--places that were used for art events, warehouses, studios, past tech events, conferences.
+1. Pour through all types of sites - places that were used for art events, warehouses, studios, past tech events, conferences.
 2. Build a list containing details that are relevant to whittling this down.
 3. Build contacts and confirm that the capacity and requirements of the conf are met by an email/phone call.
 4. Go tour!
@@ -201,9 +201,9 @@ The call for presentations helps communicate how you build your content and comm
 Check out the [EmpireJS 2016 CFP process](https://speak.empirejs.org/) and also read up on our past [Reviewing Guidelines](https://docs.google.com/document/d/18X1gqNXvM8vhSmNKFgGkGsXSVFW7lOMxiYw7Xx5K6P4/edit?usp=sharing) to see how you can help minimize bias and solidify a rad lineup!
 
 ## Speakers
-Building your most diverse, knowledgable community takes work. You want awesome speakers and attendees? Reach out to your local meetups, codeschools, universities, and conferences and share your Call for Speakers. The more inclusive you are in your process to share, the better result you'll see in the community you've built. Reach out to people you see doing awesome work. If you don't know them? It's a compliment you even asked! Better to ask and see a 'no thanks' to the submission process than to not ask and lose the chance at lifting up someone that didn't know you were interested in what they had to say.
+Building your most diverse, knowledgeable community takes work. You want awesome speakers and attendees? Reach out to your local meetups, code schools, universities, and conferences and share your Call for Speakers. The more inclusive you are in your process to share, the better result you'll see in the community you've built. Reach out to people you see doing awesome work. If you don't know them? It's a compliment you even asked! Better to ask and see a 'no thanks' to the submission process than to not ask and lose the chance at lifting up someone that didn't know you were interested in what they had to say.
 
-It is recommended that budget is allocated for speaker travel and accomodations. This allows for increasing access to conferences for speakers that might not have the luxury of a good paycheck(this is a reality). It's also a treat and a huge appreciation to those who have spent time creating awesome content for the conference.
+It is recommended that budget is allocated for speaker travel and accommodations. This allows for increasing access to conferences for speakers that might not have the luxury of a good paycheck(this is a reality). It's also a treat and a huge appreciation to those who have spent time creating awesome content for the conference.
 
 ## Accommodations
 
