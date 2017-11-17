@@ -324,6 +324,7 @@ The website (especially for a web development conference) can be a fun opportuni
 * Name of conference
 * Location of conference (including name of venue, map and directions)
 * Code of Conduct
+* Call for talks(details, speaker perks)
 * Location of accommodations (including map and directions)
 * Dates
 * Agendas for each day (including registration, meals, talks and evening events)
@@ -331,7 +332,6 @@ The website (especially for a web development conference) can be a fun opportuni
 * List of sponsors
 * List of organizers (with photo and contact information)
 * How to purchase tickets
-* Your Code of Conduct
 
 Make sure your website works on phones as well as laptops & desktops--many people at the conference will be using your site.
 
