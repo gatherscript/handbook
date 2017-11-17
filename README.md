@@ -359,7 +359,7 @@ Your organizers should have clear headshots on your website - not obscure avatar
 
 ### Code of Conduct
 
-Make sure that your Code of Conduct is prominently displayed on your website, as well as how to report an issue. People will need to find this information quickly in a difficult situation, and you don't want to make a bad situation worse by making this information difficult to discover. 
+Make sure that your Code of Conduct is prominently displayed on your website, as well as how to report an issue. People will need to find this information quickly in a difficult situation, and you don't want to make a bad situation worse by making this information harder to find. 
 
 ## Privacy Policy
 You should have one!
