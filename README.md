@@ -319,18 +319,46 @@ While fonts can cost hundreds of dollars, the importance of picking a quality fo
 
 ## Website
 
-The website (especially for a web development conference) can be a fun opportunity to create something fun that uses some bleeding edge tech. But don't let that keep you from focusing on what really matter: the content. As we noted above, there should be a regular cadence at which you are sharing more and more information about the conference. But at the end of the day (i.e. the week before the event at the latest) your website should include at a minimum:
+The website (especially for a web development conference) can be a fun opportunity to create something fun that uses some bleeding edge tech. But don't let that keep you from focusing on what really matter: the content. As we noted above, there should be a regular cadence at which you are sharing more and more information about the conference. But at the end of the day (i.e. the week before the event at the latest) your website should include:
 
 * Name of conference
 * Location of conference (including name of venue, map and directions)
-* Code of Conduct
-* Call for talks(details, speaker perks)
 * Location of accommodations (including map and directions)
 * Dates
 * Agendas for each day (including registration, meals, talks and evening events)
 * List of speakers (with photo and talk titles)
 * List of sponsors
-* List of organizers (with photo and social handles)
+* List of organizers (with photo and contact information)
+* How to purchase tickets
+* Your Code of Conduct
+
+Make sure your website works on phones as well as laptops & desktops--many people at the conference will be using your site.
+
+### Timing
+
+Additionally, as your conference gets closer and closer, the needs of your website audience change. 
+
+If your conference has a Call for Proposals, people will need to know how to submit a talk and why they should think about submitting.
+
+Two to three months before your doors open, people are deciding if they want to attend your conference. They will need to see where your conference is, who is speaking, how to purchase tickets, and potentially who else is going to be there.
+
+Approximately 6-8 weeks before your conference, people will begin to make detailed travel arrangements (if they haven't already). They will need to know how to get to your venue. They will be looking into flights, trains, and travel by car. They will need to what airport to arrive at, and if they need to make connections between that airport and other travel (train, rental car, etc). Depending on where your conference is, you may have a little or a lot of people buying tickets to attend.
+
+In the week or so leading up to your conference, the most important information for participants will be getting to your venue and travel information. Especially if your conference is in a remote location, people will need to know what the address is, and how to get there. A lesser need will be schedule information. Some people like to plan early, and want to figure out what they will be doing. It's unlikely, but possible, at this point that participants will still be buying tickets.
+
+During the conference, the primary focus of the website is your schedule. People need to know what is happening, when, and where. Having a map of your venue on the website can be very helpful.
+
+### Web Team
+
+It's best to have multiple that are contributing to the website, but only one person that is responsible for it overall. You want to make sure that your website is setup so that multiple people can deploy content, whether that be via an online administration tool or other means. Having a staging or test environment for your website is also helpful to preview changes before pushing them to the general public. If you use a stage/test environment, make sure as well that multiple people can deploy to it.
+
+### Organizer Information
+
+Your organizers should have clear headshots on your website - not obscure avatars. Your attendees may need to find you, and knowing what you look like is very important.
+
+### Code of Conduct
+
+Make sure that your Code of Conduct is prominently displayed on your website, as well as how to report an issue. People will need to find this information quickly in a difficult situation, and you don't want to make a bad situation worse by making this information difficult to discover. 
 
 ## Privacy Policy
 You should have one!
