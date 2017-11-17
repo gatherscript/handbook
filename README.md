@@ -17,6 +17,7 @@ Some (but not comprehensive) guidelines for running a conference--supplied by so
 * [Speakers](#speakers)
 * [Accomodations](#accommodations)
 * [Promotion](#promotion)
+* [Design](#design)
 * [Website](#website)
 * [Tools](#tools)
 * [Day-Of Event Running](#day-ofevent-running)
@@ -252,6 +253,69 @@ Final announcements, which can include:
 * Last minute sponsors
 * Details about social events and special activities
 * Keynote or special speakers
+
+## Design
+
+During the planning for your event, you will have many things that you will need to design. Good design is critical to establishing a cohseiveness to your conference and brand, and can help excite and impress people. Remember, design does not exist just to look pretty; it's more than just pixels. The primary goal of your overall design should be conveying information to your participants in a good manner.
+
+Having someone who is well versed in graphic design is a huge boon. You will need to get designs for things like:
+
+* Website
+* Apparel (Shirts, Hoodies)
+* Badges
+* Totebags
+* Stickers
+* Physical handouts (maps, flyers, bingo cards)
+* Standing Banners
+* Videos
+
+You will also have some design assets provided to you, such as
+
+* Sponsor logos
+
+### Types of printing
+
+There are a number of different methods that things will be created with, and depending on what method you use there are different constraints to be aware of.
+
+#### Silkscreening
+
+Typically used to produce apparel (shirts, hoodies), but can also be used to make other things (totebags). Each individual color that appears in your design adds to the cost of the items, and each location that you need to print can also add to the bottom line. It's best to limit yourself to 1-2 colors and 1-2 print locations.
+
+#### Digital Printing
+
+Digital printing is typically used for badges or paper handouts, but can also be used for large format standing banners. It's faster, generally cheaper, and more flexable then silk screening, but it usually doesn't work on fabric. You don't have any restrictions on colors or placements using digital printing.
+
+#### Lasers
+
+Sometimes, you'll want to make things that are unusal objects. An example of this is CascadiaJS's wooden badges. They may have irregular shapes, or ones that printers don't typically carry. You can make items in any shape or size, only limited by the size of the laser platform your vendor has. These items can be unique and very impressive, but come at a higher cost. The complexity of your design is directly coorelated to the cost to prodce the item. Vendors can do etching (not cutting all the way through your medium) and staining which can add to the design, but you don't have much flexibility with colors in laser cutting.
+
+#### Embroidery
+
+Embroidery is rarely used, but does happen for things like hats that don't take well to silkscreening, or to give something a bit different look. Colors are limited, and vendors are very picky about revisions.
+
+#### Die cutting
+
+Should you want to produce something that has a shape that printers don't usually carry, you may need to also have your items die cut. The process is to make 2 shapes out of metal and squish your swag between them. There is usually a cost to setup the die.
+
+### Videos
+
+If you are producing videos of any of your conference, you may be asked to provide various assets to use in the videos. Fortunately, these are fixed size (1920x1080) and vendors prefer pngs.
+
+You may need to provide a title image (think logo), an image of your sponsors, and an image with your speaker's name, talk title, and your logo.
+
+### Picking apparel
+
+Generally, whomever is doing the printing for you (silkscreening, embroidery, etc) will have a list of vendors they work with to provide apparel. They may give you a list of apparel manufacturers to pick from.
+
+### Vector assets
+
+You may be required to print your assets on a variety of materials and mediums, so it's best to make sure all your core assets are available in a vector format. It can be svg, or ai, or eps, but you will beed to put these assets on many things so make sure your assets are flexible. 
+
+### Font Selection
+
+Have caution when picking a font for your conference. You'll want to make sure you get a webfont as well as a ttf or otf format if you are using it on apparel.
+
+While fonts can cost hundreds of dollars, the importance of picking a quality font should not be ignored.
 
 ## Website
 
