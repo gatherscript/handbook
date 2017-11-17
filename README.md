@@ -323,6 +323,7 @@ The website (especially for a web development conference) can be a fun opportuni
 
 * Name of conference
 * Location of conference (including name of venue, map and directions)
+* Code of Conduct
 * Location of accommodations (including map and directions)
 * Dates
 * Agendas for each day (including registration, meals, talks and evening events)
