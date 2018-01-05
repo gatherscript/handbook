@@ -69,8 +69,6 @@ Think about the overall feel you want your audience(speakers, attendees, sponsor
 - If you're providing food, being sensitive to the needs of those with dietary restrictions is very appreciated. Make it known you are doing this! Another in is easy-to-grab-and-go food makes for quickly satisfied attendees.
 - Introduce your team to the entire conference. Make sure everyone knows who they are and how to identify them if they need anything. Try to repeat this often.
 
-
-
 ## Timeline
 
 You want to begin planning for your conference at least 6 months out. Here is a sample timeline:
@@ -85,6 +83,8 @@ You want to begin planning for your conference at least 6 months out. Here is a 
 * T + 1 week: Personal thank you emails to speakers and sponsors.
 * T + 2 weeks: Post-mortem with organizing team, photos, videos, etc.
 * T - 1 month All vendor payments, speaker reimbursements, and sponsor money reimbursement should be wrapped up.
+
+See [email templates](emails/readme.md)
 
 ## Picking a Venue
 
